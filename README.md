@@ -8,7 +8,7 @@ Uma homenagem aos personagens icônicos de One Piece, esta página permite que v
 
 Este projeto foi construído com as seguintes tecnologias:
 
-*   **HTML**: Estrutura a página web, organizando os elementos e o conteúdo.
+*   **HTML**: Estrutura da página web, organizando os elementos e o conteúdo.
 *   **CSS**: Estilos que dão vida à página, definindo cores e outros aspectos visuais.
 *   **JavaScript**: Interatividade da página, permitindo que os usuários cliquem nos botões e vejam as informações dos personagens.
 
